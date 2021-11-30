@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "CSSECDEV"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Milestone1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
