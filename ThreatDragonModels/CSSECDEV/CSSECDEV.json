@@ -174,8 +174,8 @@
                 "height": 100
               },
               "position": {
-                "x": 739,
-                "y": 329
+                "x": 747,
+                "y": 306
               },
               "angle": 0,
               "id": "d283a5a7-efb9-44ca-b6d6-331d0c4f2a8e",
@@ -226,8 +226,8 @@
                 "height": 100
               },
               "position": {
-                "x": 436,
-                "y": 329
+                "x": 424,
+                "y": 302
               },
               "angle": 0,
               "id": "5168fbbe-457c-4bcd-ad21-2d4ba2b025dd",
@@ -514,7 +514,12 @@
               "target": {
                 "id": "5168fbbe-457c-4bcd-ad21-2d4ba2b025dd"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 300,
+                  "y": 385
+                }
+              ],
               "id": "933eca93-6ad5-40f0-a799-e3d0e716fcd6",
               "labels": [
                 {
@@ -808,8 +813,8 @@
               },
               "vertices": [
                 {
-                  "x": 949,
-                  "y": 225
+                  "x": 943,
+                  "y": 207
                 }
               ],
               "id": "e5e6795b-6746-430e-947e-0affbc1f6359",
