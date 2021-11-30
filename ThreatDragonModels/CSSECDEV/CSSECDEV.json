@@ -565,7 +565,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 17",
+                      "text": "verified",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -604,7 +604,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 18",
+                      "text": "user credentials",
                       "font-weight": "400",
                       "font-size": "small"
                     }
